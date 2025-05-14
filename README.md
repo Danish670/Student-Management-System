@@ -1,4 +1,4 @@
-**Student Management System** operating ssytems/c++
+**Student Management System** operating sytems/c++
 
 # 🎓 Student Management System
 
