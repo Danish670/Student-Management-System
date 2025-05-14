@@ -1,4 +1,4 @@
-**Student Management System** os/c++
+**Student Management System** operating ssytems/c++
 
 ## Features
  **Login System**: Secure authentication for teachers and students using usernames and passwords.
